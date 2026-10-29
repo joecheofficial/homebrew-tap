@@ -2,7 +2,7 @@ class Mastermindshq < Formula
   desc "Official CLI for the Masterminds HQ public API"
   homepage "https://mastermindshq.business/developers"
   url "https://github.com/joecheofficial/mastermindshq-cli/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "46a68e8903d9bacea1b3f9fa5b845894a3988f57583599d9cd487566822441dc"
+  sha256 "422de836573d6f8378d51bd4010b1fab01ac90c424ae686edc582afb663c0006"
   license "MIT"
 
   depends_on "node"
